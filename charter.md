@@ -1,8 +1,8 @@
-# ARMOR Research Group (IRTF) - Proposed Charter v0.2 (draft)
+# ARMOR Research Group (IRTF) - Proposed Charter v0.3 (draft)
 
 Draft for discussion on armor@irtf.org and at the IETF 127 side meeting. Not
-adopted. The changes from v0.1 follow the IETF 124 side meetings in Montreal;
-see the README.
+adopted. v0.2 followed the IETF 124 side meetings in Montreal. v0.3 folds in
+the list discussion of September and October 2026. See the README.
 
 ## Mission
 
@@ -12,9 +12,11 @@ interference, whether adversarial or unintended.
 ## Scope
 
 Interference here means disruption of end-to-end communication by something
-on the path that is not approved by both endpoints: deep packet inspection,
-injection and manipulation, throttling, and forced protocol downgrade. ARMOR
-describes interference by its effects and does not judge the intent behind it.
+on the path that is not approved by both endpoints: injection and
+manipulation, throttling, and forced protocol downgrade. Deep packet
+inspection and other monitoring are in scope to the extent that they enable
+interference. ARMOR describes interference by its effects and does not judge
+the intent behind it.
 
 The core of the work is constructive, turning what is known about
 interference into protocol and deployment changes:
@@ -62,8 +64,8 @@ and PEARG is in progress.
 
 ## Participation
 
-Open to researchers, engineers, and operators from academia, industry, and
-civil society.
+Open to everyone, including researchers, engineers, and operators from
+academia, industry, and civil society.
 
 ## Meetings
 
@@ -75,5 +77,14 @@ participation.
 
 - Should the constructive work be the core, or is measurement alone the
   clearer focus? The room in Montreal was split.
-- Are these the right three outputs to start with?
+- Should the charter name initial outputs, or list them as examples and plan
+  to recharter within a year around the work that has active contributors?
+- Interference "not approved by both endpoints" would include functions that
+  one endpoint did approve, such as endpoint security software, home
+  firewalls, or a server's load balancer. Should those be in scope?
 - How exactly does ARMOR complement HRPC, MAPRG, and PEARG?
+- Would a companion community map and a few concrete initial research
+  questions help show why a dedicated group is useful, and how its findings
+  would reach the IETF?
+- Which academic venues could ARMOR meet alongside? PETS and FOCI have been
+  suggested.

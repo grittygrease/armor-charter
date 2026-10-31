@@ -4,7 +4,7 @@ Working text of the charter for ARMOR, a proposed IRTF research group on
 protocol resilience against on-path interference. Nothing here is adopted.
 Research groups are chartered by the IRTF Chair.
 
-- Current draft: [charter.md](charter.md) (v0.2)
+- Current draft: [charter.md](charter.md) (v0.3)
 - v0.1, as posted to the list on 19 September 2025:
   [tag v0.1](https://github.com/grittygrease/armor-charter/blob/v0.1/charter.md)
   and the [list archive](https://mailarchive.ietf.org/arch/msg/armor/nQgZ_7tBE4ZnsehQnrKLTb02QW0/)
@@ -29,6 +29,19 @@ and the
 - From the first session's talks: building blocks that let applications
   switch strategies under interference, evaluation from the user's side of a
   failed connection, and a view of tampering broader than censorship.
+
+## Where v0.3 comes from
+
+v0.3 folds in the replies to the
+[IETF 127 note](https://mailarchive.ietf.org/arch/msg/armor/OvvT6beTOEUgkkD-QOoHU3-W6_w/)
+on the list:
+
+- Deep packet inspection and monitoring are in scope to the extent that they
+  enable interference, rather than being listed as interference themselves.
+- Participation is open to everyone.
+- New open questions: whether to name outputs now or recharter later,
+  functions approved by only one endpoint, a community map with initial
+  research questions, and academic venues to meet alongside.
 
 ## Discussion
 
