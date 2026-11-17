@@ -5,6 +5,8 @@ protocol resilience against on-path interference. Nothing here is adopted.
 Research groups are chartered by the IRTF Chair.
 
 - Current draft: [charter.md](charter.md) (v0.3)
+- Slides for the IETF 127 side meeting, 18 November 2026:
+  [slides/ARMOR-side-meeting-IETF127.pdf](slides/ARMOR-side-meeting-IETF127.pdf)
 - v0.1, as posted to the list on 19 September 2025:
   [tag v0.1](https://github.com/grittygrease/armor-charter/blob/v0.1/charter.md)
   and the [list archive](https://mailarchive.ietf.org/arch/msg/armor/nQgZ_7tBE4ZnsehQnrKLTb02QW0/)
